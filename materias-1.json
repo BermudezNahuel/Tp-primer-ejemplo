@@ -1,0 +1,31 @@
+{
+	"Materias": [{
+			"Curso": 0,
+			"Materias": [
+				"Ciencias Naturales",
+				"Ciencias Sociales",
+				"Construcción Ciudadana",
+				"Educación Artístistica",
+				"Educación Fisica",
+				"Matemáticas",
+				"Prácticas de Lenguaje",
+				"Inglés"
+			]
+		},
+		{
+			"Curso": 1,
+			"Materias": [
+				"Biología",
+				"Construcción Ciudadana",
+				"Educación Artístistica",
+				"Educación Fisica",
+				"Fisico Quimica",
+				"Geografia",
+				"Historia",
+				"Inglés",
+				"Matemáticas",
+				"Prácticas de Lenguaje"
+			]
+		}
+	]
+}
